@@ -3,10 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-:root {
-    --line-border-fill: #3498db;
-    --line-border-empty: #e0e0e0;
-}
   
 body{
     background-color: #333;
